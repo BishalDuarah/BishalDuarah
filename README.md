@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bishalduarah&label=Profile%20views&color=0e75b6&style=flat" alt="bishalduarah" /> </p>
 
-- 🌱 I’m currently learning **Data Analytics & Visualization.Machine Learning & AI Models.**
+- 🌱 I’m currently learning **Data Analytics & Visualization,Machine Learning & AI Models.**
 
 - 📫 How to reach me **bishalduarah54@gmail.com**
 
