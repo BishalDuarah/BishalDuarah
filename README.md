@@ -1,7 +1,7 @@
  Hi👋,I'm Bishal Duarah
 
-<!--
-**BishalDuarah/BishalDuarah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+![](https://komarev.com/ghpvc/?BishalDuarah=BishalDuarah)
 
 Here are some ideas to get you started:
 
